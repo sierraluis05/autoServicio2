@@ -1,0 +1,1 @@
+la resta de {!!$value1!!} y {!!$value2!!} es de {!!$total!!}
